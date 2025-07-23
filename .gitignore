@@ -32,3 +32,9 @@ coverage/
 .Trashes
 ehthumbs.db
 Thumbs.db
+# SpecStory explanation file
+.specstory/.what-is-this.md
+
+personas/gabriel.json
+personas/nick.json
+personas/zed.json
