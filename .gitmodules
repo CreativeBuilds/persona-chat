@@ -1,0 +1,3 @@
+[submodule "chat-stream"]
+	path = chat-stream
+	url = https://github.com/creativebuilds/chat-stream
